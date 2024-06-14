@@ -1,5 +1,6 @@
 #pragma once
 #include <GLFW/glfw3.h>
+#include "Transform.h"
 
 // Base class
 class Object {
